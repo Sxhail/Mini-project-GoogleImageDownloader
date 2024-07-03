@@ -1,1 +1,1 @@
-#Google Image downloader#
+Google Image downloader
